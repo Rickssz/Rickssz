@@ -10,7 +10,7 @@ Me chamo Richard Correia Rodrigues Santos, tenho 18 anos e moro em Salvador - BA
  
 #
 
-<img align="right" alt="" height="190px" src="./src/src/Rei-evangelion.gif">
+<img align="right" alt="" height="190px" src="./src/edgerunners.gif">
 
 <h3 align="left">Connect with me!</h3>
 
