@@ -6,7 +6,7 @@
 
 #
 
-Me chamo Richard Correia Rodrigues Santos, tenho 2418 anos e moro em Salvador - BA. Atualmente curso Análise e Desenvolvimento de Sistemas no Senai. Sou apaixonado por tecnologia, amante de jogos e animes
+Me chamo Richard Correia Rodrigues Santos, tenho 18 anos e moro em Salvador - BA. Atualmente curso Análise e Desenvolvimento de Sistemas no Senai. Sou apaixonado por tecnologia, amante de jogos e animes
  
 #
 
