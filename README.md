@@ -14,23 +14,25 @@
 
 <br>
 
+<!-- Seção: Stacks -->
 <div align="center">
-  <h3><code>MY TECH STACK</code></h3>
-  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=9D4EDD&center=true&vCenter=true&random=false&width=300&lines=MY+TECH+STACK" alt="MY TECH STACK" />
+  <br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="35" style="filter: invert(1);" alt="github logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" style="filter: brightness(0) invert(1);" alt="github logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="35" alt="photoshop logo" />
 </div>
 
 <br>
 
+<!-- Seção: Redes Sociais -->
 <div align="center">
-  <h3><code>CONNECT WITH ME</code></h3>
-  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=9D4EDD&center=true&vCenter=true&random=false&width=300&lines=CONNECT+WITH+ME" alt="CONNECT WITH ME" />
+  <br><br>
   <a href="mailto:richardmaximus07@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
@@ -47,9 +49,10 @@
 
 <br>
 
+<!-- Seção: Estatísticas -->
 <div align="center">
-  <h3><code>GITHUB STATS</code></h3>
-  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=9D4EDD&center=true&vCenter=true&random=false&width=300&lines=GITHUB+STATS" alt="GITHUB STATS" />
+  <br><br>
   <table align="center" border="0" style="border-collapse: collapse;">
     <tr>
       <td align="center" valign="top">
@@ -68,9 +71,10 @@
 
 <br>
 
+<!-- Seção: Gráfico de Contribuições (Cobrinha) -->
 <div align="center">
-  <h3><code>CONTRIBUTIONS GRAPH</code></h3>
-  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=9D4EDD&center=true&vCenter=true&random=false&width=350&lines=CONTRIBUTIONS+GRAPH" alt="CONTRIBUTIONS GRAPH" />
+  <br><br>
   <img data-importer="snake" src="https://raw.githubusercontent.com/Rickssz/Rickssz/snake-output/snake.svg" alt="Snake animation" />
 </div>
 
