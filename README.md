@@ -15,18 +15,22 @@
 <br>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="github logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="32" alt="photoshop logo" />
+  <h3><code>MY TECH STACK</code></h3>
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="35" style="filter: invert(1);" alt="github logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="35" alt="photoshop logo" />
 </div>
 
 <br>
 
 <div align="center">
+  <h3><code>CONNECT WITH ME</code></h3>
+  <br>
   <a href="mailto:richardmaximus07@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
@@ -43,25 +47,30 @@
 
 <br>
 
-<!-- Tabela invisível para alinhar perfeitamente os cards no centro -->
-<table align="center" border="0" style="border-collapse: collapse;">
-  <tr>
-    <td align="center" valign="top">
-      <a href="https://github-stats-extended.vercel.app/api?username=Rickssz&show_icons=true&include_all_commits=true&theme=midnight-purple">
-        <img src="https://github-stats-extended.vercel.app/api?username=Rickssz&show_icons=true&include_all_commits=true&theme=midnight-purple" alt="GitHub Stats" />
-      </a>
-    </td>
-    <td align="center" valign="top">
-      <a href="https://github-stats-extended.vercel.app/api/top-langs?username=Rickssz&layout=compact&theme=midnight-purple">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Rickssz&layout=compact&theme=midnight-purple" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h3><code>GITHUB STATS</code></h3>
+  <br>
+  <table align="center" border="0" style="border-collapse: collapse;">
+    <tr>
+      <td align="center" valign="top">
+        <a href="https://github-stats-extended.vercel.app/api?username=Rickssz&show_icons=true&include_all_commits=true&theme=midnight-purple&hide=contribs">
+          <img src="https://github-stats-extended.vercel.app/api?username=Rickssz&show_icons=true&include_all_commits=true&theme=midnight-purple&hide=contribs" alt="GitHub Stats" />
+        </a>
+      </td>
+      <td align="center" valign="top">
+        <a href="https://github-stats-extended.vercel.app/api/top-langs?username=Rickssz&layout=compact&theme=midnight-purple">
+          <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Rickssz&layout=compact&theme=midnight-purple" alt="Top Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
 <div align="center">
+  <h3><code>CONTRIBUTIONS GRAPH</code></h3>
+  <br>
   <img data-importer="snake" src="https://raw.githubusercontent.com/Rickssz/Rickssz/snake-output/snake.svg" alt="Snake animation" />
 </div>
 
