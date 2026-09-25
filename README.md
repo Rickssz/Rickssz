@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&random=false&width=550&lines=%E2%8A%B9+WELCOME+TO+MY+PROFILE!+%E2%8A%B9;Software+Developer+In+Training...;Passionate+About+Tech+%26+Gaming;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&random=false&width=550&lines=%E2%8A%B9+WELCOME+TO+MY+PROFILE!+%E2%8A%B9;Software+Developer+In+Training...;Passionate+About+Tech+%26+Gaming;" alt="Typing SVG" />
   </a>
 </div>
 
@@ -43,30 +43,20 @@
 
 <br>
 
-<!-- Tabela invisível para alinhar perfeitamente os cards no centro -->
-<table align="center" border="0" style="border-collapse: collapse;">
-  <tr>
-    <td align="center" valign="top">
-      <a href="https://github-stats-extended.vercel.app/api?username=Rickssz&show_icons=true&include_all_commits=true&theme=dracula">
-        <img src="https://github-stats-extended.vercel.app/api?username=Rickssz&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub Stats" />
-      </a>
-    </td>
-    <td align="center" valign="top">
-      <a href="https://github-stats-extended.vercel.app/api/top-langs?username=Rickssz&layout=compact&theme=dracula">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Rickssz&layout=compact&theme=dracula" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- Cartões com a API oficial e alinhados perfeitamente em altura -->
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rickssz&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rickssz&layout=compact&langs_count=5&theme=midnight-purple&hide_border=true" alt="Top Languages" />
+</p>
 
 <br>
 
 <div align="center">
-  <img data-importer="snake" src="https://raw.githubusercontent.com/Rickssz/Rickssz/snake-output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Rickssz/Rickssz/snake-output/snake.svg" alt="Snake animation" />
 </div>
 
 <br>
 
 <div data-importer="profile-views" align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rickssz.Rickssz&left_color=282a36&right_color=bd93f9" alt="Visitor Badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rickssz.Rickssz&left_color=1a102f&right_color=9d4edd" alt="Visitor Badge" />
 </div>
