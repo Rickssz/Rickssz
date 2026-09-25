@@ -43,16 +43,26 @@
 
 <br>
 
-<!-- Cartões com a API oficial e alinhados perfeitamente em altura -->
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rickssz&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rickssz&layout=compact&langs_count=5&theme=midnight-purple&hide_border=true" alt="Top Languages" />
-</p>
+<!-- Tabela invisível para alinhar perfeitamente os cards no centro -->
+<table align="center" border="0" style="border-collapse: collapse;">
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://github-stats-extended.vercel.app/api?username=Rickssz&show_icons=true&include_all_commits=true&theme=midnight-purple">
+        <img src="https://github-stats-extended.vercel.app/api?username=Rickssz&show_icons=true&include_all_commits=true&theme=midnight-purple" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github-stats-extended.vercel.app/api/top-langs?username=Rickssz&layout=compact&theme=midnight-purple">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Rickssz&layout=compact&theme=midnight-purple" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Rickssz/Rickssz/snake-output/snake.svg" alt="Snake animation" />
+  <img data-importer="snake" src="https://raw.githubusercontent.com/Rickssz/Rickssz/snake-output/snake.svg" alt="Snake animation" />
 </div>
 
 <br>
